@@ -7,4 +7,10 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
 	site: 'https://jajima.net',
 	integrations: [mdx(), sitemap()],
+  markdown: {
+    remarkRehype: {
+      footnoteLabel: '脚注',
+      footnoteBackLabel: 'コンテンツに戻る',
+    },
+  },
 });
