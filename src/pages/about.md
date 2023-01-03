@@ -1,8 +1,8 @@
 ---
 layout: "../layouts/BlogPost.astro"
-title: "About Me"
-description: "About Me"
-updatedDate: "2022/12/5"
+title: "jajimaについて"
+description: "jajimaについて"
+updatedDate: "2023/1/2"
 ---
 
-I am a developer and a graduate student studying computer science.
+大学で機械学習を学んでいます。興味のあるトピックはVim, TypeScript, Perl, Lispなど。
